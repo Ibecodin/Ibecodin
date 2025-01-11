@@ -1,0 +1,12 @@
+.container{
+    width : 600px;
+    margin: auto;
+    border: thin solid black;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    font-size: 24px;
+    
+}
