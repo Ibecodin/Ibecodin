@@ -10,3 +10,12 @@
     font-size: 24px;
     
 }
+
+.grid {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.grid img{
+    width: 100%;
+}
